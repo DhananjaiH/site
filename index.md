@@ -7,13 +7,13 @@ This page is a work in progress - I hope to spin this into a working website sho
 
 ### Blog Entry #1: Self-portrait - "Flow"
 
- original image |  my painting
+![alt text](https://github.com/DhananjaiH/site/blob/gh-pages/images/47e21fc6-e471-48f4-8e59-43cdfc43f374.jpg "Original photo") |  ![alt text](https://github.com/DhananjaiH/site/blob/gh-pages/images/Flow%20-%20JaiH.JPG "Flow painting")
 
  I recently started to learn to paint - specifically, with water and graphite. I felt the need to have a more analog creative outlet, outside the boundaries of an electronic screen, with the singular goal of just putting something on paper and focus on just that.
 
 The inspiration for this came from reading the phenomenal manga series by Takehiko Inoue, "Vagabond". Based on the journey of the quintessential warrior and philosopher Miyamoto Musashi, the series takes the reader on his spiritual path to attain "perfection", while providing artwork to showcase the author's own search for that perfection.
 
-artwork from vagabon here
+![alt text](https://github.com/DhananjaiH/site/blob/gh-pages/images/tumblr_n0kp38UsQ31r6eyjlo1_500.png "Vagabond - Miyamoto Musashi by Takehiko Inoue")
 Vagabond - Miyamoto Musashi by Takehiko Inoue
 Source: https://www.pinterest.com/pin/159033430565986932
 
