@@ -1,0 +1,8 @@
+title: Site
+description: A website for my projects
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
