@@ -1,19 +1,30 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+### Welcome to Jai's site
+Made with GitHub Pages.
+
+This page is a work in progress - I hope to spin this into a working website showcasing my new and old work, documenting my progress on the way.
+
+***
+
+### Blog Entry #1: Self-portrait - "Flow"
+
+ original image |  my painting
+
+ I recently started to learn to paint - specifically, with water and graphite. I felt the need to have a more analog creative outlet, outside the boundaries of an electronic screen, with the singular goal of just putting something on paper and focus on just that.
+
+The inspiration for this came from reading the phenomenal manga series by Takehiko Inoue, "Vagabond". Based on the journey of the quintessential warrior and philosopher Miyamoto Musashi, the series takes the reader on his spiritual path to attain "perfection", while providing artwork to showcase the author's own search for that perfection.
+
+artwork from vagabon here
+Vagabond - Miyamoto Musashi by Takehiko Inoue
+Source: https://www.pinterest.com/pin/159033430565986932
+
+"Flow" is a good portrait of my present state of mind. Symbolically, it's one of the first few pieces I have tried to paint - a new journey in and of itself. In another sense, it's a representation of why I joined MFA DT. I wanted to take a step back, look at the larger landscape, attempt to understand my path in life, and try to make the most of it.
+
+- Jai
 
 ***
 ### Test this link:
 [Sample Page](/site/index.html)
 ***
-
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
-
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
-
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
 
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
