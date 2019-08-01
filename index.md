@@ -27,8 +27,8 @@ _credit: Yichan Wang - initial rough map of Union Square Park_
 
 After giving some additional thought, I felt that abstracting all the details to leave only the historical installations, would give a better visual effect. This resulted in a timeline plot bent into the shape of the southern-half of the park.
 
-![My initial rough sketch of USP](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/JaiH - rough map.jpg)
-![My final sketch of USP](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/JaiH - final map.jpg)
+![My initial rough sketch of USP](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/JaiH - rough map.JPG)
+![My final sketch of USP](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/JaiH - final map.JPG)
 
 The final map merely shows landmark timestamps of events in the park. On looking at it again, I do wish I could have included some of the contextual events illustrated on the plaques at the park. Perhaps a side project for another time...
 
