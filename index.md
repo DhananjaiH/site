@@ -23,12 +23,15 @@ As a group, we initially tried to map the groundwork around the park in detail, 
 
 ![Rough sketch of Union Square Park](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Yichan Wang - sketch USP.jpg)
 
-_credit: Yichan Wang - initial rough map of Union Square Park_
+_Credit: Yichan Wang - initial rough map of Union Square Park_
 
 After giving some additional thought, I felt that abstracting all the details to leave only the historical installations, would give a better visual effect. This resulted in a timeline plot bent into the shape of the southern-half of the park.
 
 ![My initial rough sketch of USP](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/JaiH - rough map.JPG)
+_Initial rough map sketch_
+
 ![My final sketch of USP](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/JaiH - final map.JPG)
+_Final map - Walking through a timeline of Union Square_
 
 The final map merely shows landmark timestamps of events in the park. On looking at it again, I do wish I could have included some of the contextual events illustrated on the plaques at the park. Perhaps a side project for another time...
 
@@ -38,26 +41,26 @@ The final map merely shows landmark timestamps of events in the park. On looking
 
 ### Blog Entry #2: Kara Walker - "Event Horizon"
 
-_images_
+![Kara Walker - Event Horizon - Part 2](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Kara Walker - Event Horizon.JPG)
 
-#### initial observations and thoughts
-
-- maybe some reference to Dante's Inferno / an alternate take on the painting 'The Nine Circles of Hell'
+#### Initial observations and thoughts
+- maybe some reference to Dante's Inferno / an alternate take on the painting 'The Nine Circles of Hell'?
 - a single long tunnel / bottomless pit connecting two ends of the earth, going underground connecting to the opposite wall
 - intermingled themes of falling and escaping, despair and acceptance
 - "deep and dark"
 - commentary on slavery - on one end, trying to escape harsh conditions (like war / disease / poverty), on the other, slavery and harsh treatment
-
-- event horizon - initially thought of it from the outside - its possible to gaze at it, but not beyond the surface or inside it.
-- through discussion - a community that is bounded by oppression on all sides, always getting pulled in, can try to escape only to be drawn back to the center
+- the title "Event Horizon" - I initially thought of it from an outside viewer's perspective - its possible to gaze at it, but not beyond the surface, deep into its inner core.
+- through discussion with other groups, another interpretation became more apparent - Just like a Black Hole, the artwork illustrates a community that is bounded by oppression on all sides, always getting pulled in. No matter how hard they try to escape, the characters are drawn back to the center.
 
 The process of coming to that conclusion did indeed take some time.
 
-Trying to understand her design process;
-- location - clearly visible, unavoidable installation that covers the entire space
-- serve as a humbling reminder of a dark past, as one climbs up the stairs
-- with good lighting, it provides a strong contrasting image that is inescapable and unavoidable story to spark conversation in people using the space
+#### Trying to understand her design process;
+- Picking a location - a clearly visible, unescapable installation that covers a large space
+- Possible intent of the artwork is to serve as a humbling reminder of a dark past, as one climbs up the stairs.
+- Making use of the lighting in the space, it provides a strong contrasting image that is inescapable and unavoidable, a story to spark conversation in people using the space.
 - serve as a fitting image to a building that serves as a home to a public program.
+
+\- Jai
 
 ***
 
