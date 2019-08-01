@@ -5,6 +5,62 @@ This page is a work in progress - I hope to spin this into a working website sho
 
 ***
 
+### Blog Entry #3: Mapping Union Square
+
+I had the pleasure of working with Yichan and Kennis for this activity - to create a unique map of Union Square Park.
+
+As we walked through the park, we observed it being busy as ever, with the added activity of the Farmer's Market at the square. The smell lavender soaps, bright flowers big and small, fresh fruits and vegetables piled high were there for all to experience.
+
+Discussing observations as we took our tour around the park, we tried to look for information that was not very obvious. The types of trees, the size and shape of different leaves. The level of activity and passiveness in various parts of the park. The shape, color, & texture of the tile walkway. Or the patterns on the various manholes throughout the park, which seemed to have unique patterns all over the park.
+
+On reaching the Southeast end of the park, we noticed engraved iron plaques adorning an arch around the park.
+
+![Plaque commemorating the George Washington Statue at Union Square Park](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/USPPlaque-GWStatue.JPG)
+
+A second round around the park revealed that the plaques presented a historical timeline of landmark events leading to the Union Square of today. Hidden in plain sight, they revealed important moments in the Square's history, not to mention its importance in Manhattan's history. We knew right away that this is what we wanted to document for our map.
+
+As a group, we initially tried to map the groundwork around the park in detail, in order to highlight the plaques in context to its surrounding background. Their golden-copper shade must have shown brighter, back when it was last installed in 2002.
+
+![Rough sketch of Union Square Park](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Yichan Wang - sketch USP.jpg)
+
+_credit: Yichan Wang - initial rough map of Union Square Park_
+
+After giving some additional thought, I felt that abstracting all the details to leave only the historical installations, would give a better visual effect. This resulted in a timeline plot bent into the shape of the southern-half of the park.
+
+![My initial rough sketch of USP](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/JaiH - rough map.jpg)
+![My final sketch of USP](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/JaiH - final map.jpg)
+
+The final map merely shows landmark timestamps of events in the park. On looking at it again, I do wish I could have included some of the contextual events illustrated on the plaques at the park. Perhaps a side project for another time...
+
+\- Jai
+
+***
+
+### Blog Entry #2: Kara Walker - "Event Horizon"
+
+_images_
+
+#### initial observations and thoughts
+
+- maybe some reference to Dante's Inferno / an alternate take on the painting 'The Nine Circles of Hell'
+- a single long tunnel / bottomless pit connecting two ends of the earth, going underground connecting to the opposite wall
+- intermingled themes of falling and escaping, despair and acceptance
+- "deep and dark"
+- commentary on slavery - on one end, trying to escape harsh conditions (like war / disease / poverty), on the other, slavery and harsh treatment
+
+- event horizon - initially thought of it from the outside - its possible to gaze at it, but not beyond the surface or inside it.
+- through discussion - a community that is bounded by oppression on all sides, always getting pulled in, can try to escape only to be drawn back to the center
+
+The process of coming to that conclusion did indeed take some time.
+
+Trying to understand her design process;
+- location - clearly visible, unavoidable installation that covers the entire space
+- serve as a humbling reminder of a dark past, as one climbs up the stairs
+- with good lighting, it provides a strong contrasting image that is inescapable and unavoidable story to spark conversation in people using the space
+- serve as a fitting image to a building that serves as a home to a public program.
+
+***
+
 ### Blog Entry #1: Self-portrait - "Flow"
 
 ![Original  Photo](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/47e21fc6-e471-48f4-8e59-43cdfc43f374.jpg)
