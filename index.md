@@ -5,15 +5,41 @@ This page is a work in progress - I hope to spin this into a working website sho
 
 ***
 
+### Blog Entry #4: The process of formulating a question (or many)
+_08/01/2019_
+
+Below are some notes from today's exercise in formulating questions:
+
+#### Act 1
+We noted down some of the fundamental reasons for why we are in DT - why did we choose to come here, where we are creatively in our journey, what do we bring with us, and what we hope to achieve with our time. Further categorizing these notes into common themes resulted in:
+
+[Questions - from my notes on Self-portrait](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Questions - from my notes on self portrait.JPG)
+
+#### Act 2
+Reflecting back to the activity from Day \#3 (observing and mapping Union Square Park). Sherry and I got to do a little show and tell with each other - she showed me how she mapped sightings of Apple Airpods (almost as if they were a unique bird species) on people in the park, while I talked about highlighting the historical monuments within the park.
+Despite the two themes being counter-intuitive, we were pleasantly surprised to find some common themes:
+
+[Questions - from overlapping dissimilar maps ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Questions - from overlapping maps containing 2 datasets.JPG)
+
+#### Act 3
+Another exercise in repurposing the notes from Act 1 (with additional newer ones) in order to create some more random / chaotic questions.
+
+[Questions - from random notes](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Questions - from random nonsense notes.JPG)
+
+\- Jai
+
+***
+
 ### Blog Entry #3: Mapping Union Square
+_07/31/2019_
 
 I had the pleasure of working with Yichan and Kennis for this activity - to create a unique map of Union Square Park.
 
-As we walked through the park, we observed it being busy as ever, with the added activity of the Farmer's Market at the square. The smell lavender soaps, bright flowers big and small, fresh fruits and vegetables piled high were there for all to experience.
+As we walked through the park, we observed it being busy as ever, with the added activity of the Farmer's Market at the square. The smell of lavender soaps, bright flowers big and small, fresh fruits and vegetables piled high were there for all to experience.
 
 Discussing observations as we took our tour around the park, we tried to look for information that was not very obvious. The types of trees, the size and shape of different leaves. The level of activity and passiveness in various parts of the park. The shape, color, & texture of the tile walkway. Or the patterns on the various manholes throughout the park, which seemed to have unique patterns all over the park.
 
-On reaching the Southeast end of the park, we noticed engraved iron plaques adorning an arch around the park.
+On reaching the Southeast end of the park, we noticed an engraved iron plaques adorning an arch around the park.
 
 ![Plaque commemorating the George Washington Statue at Union Square Park](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/USPPlaque-GWStatue.JPG)
 
@@ -40,6 +66,7 @@ The final map merely shows landmark timestamps of events in the park. On looking
 ***
 
 ### Blog Entry #2: Kara Walker - "Event Horizon"
+_07/30/2019_
 
 ![Kara Walker - Event Horizon - Part 2](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Kara Walker - Event Horizon.JPG)
 
@@ -65,6 +92,7 @@ The process of coming to that conclusion did indeed take some time.
 ***
 
 ### Blog Entry #1: Self-portrait - "Flow"
+_07/29/2019_
 
 ![Original  Photo](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/47e21fc6-e471-48f4-8e59-43cdfc43f374.jpg)
 
