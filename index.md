@@ -13,18 +13,32 @@ Below are some notes from today's exercise in formulating questions:
 #### Act 1
 We noted down some of the fundamental reasons for why we are in DT - why did we choose to come here, where we are creatively in our journey, what do we bring with us, and what we hope to achieve with our time. Further categorizing these notes into common themes resulted in:
 
-[Questions - from my notes on Self-portrait](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Questions - from my notes on self portrait.JPG)
+![Questions - from my notes on Self-portrait](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Questions - from my notes on self portrait.JPG)
+
+- How can _"learning from my environment"_ & _"pursuiing new possibilities"_ in _"New York"_ lead to using _"hard interests + skills"_ in the _"intersection of art, history, science & tech"_?
+
+- How can _"questioning meaning/purpose"_ give _"context"_ to _"data visualization"_?
 
 #### Act 2
 Reflecting back to the activity from Day \#3 (observing and mapping Union Square Park). Sherry and I got to do a little show and tell with each other - she showed me how she mapped sightings of Apple Airpods (almost as if they were a unique bird species) on people in the park, while I talked about highlighting the historical monuments within the park.
 Despite the two themes being counter-intuitive, we were pleasantly surprised to find some common themes:
 
-[Questions - from overlapping dissimilar maps ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Questions - from overlapping maps containing 2 datasets.JPG)
+![Questions - from overlapping dissimilar maps ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Question - from overlapping maps containing 2 datasets.JPG)
+
+- How are landmarks placed so that a majority of the people walkthrough it (while wearing Airpods)?
+- How did the acceptance of using (& wearing) modern technology changed with time?
+- How the entrances (to the park/subway) are affected by the positioning of the historical plaques (& vice-versa)?
 
 #### Act 3
 Another exercise in repurposing the notes from Act 1 (with additional newer ones) in order to create some more random / chaotic questions.
 
-[Questions - from random notes](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Questions - from random nonsense notes.JPG)
+![Questions - from random notes](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Questions - from random nonsense notes.JPG)
+
+- How can questioning things make pasta?
+- How can design thinking explain memes?
+- How can the MTA chain driver-less cars?
+- How can manga analyze global warming?
+- How can New York code new possibilities?
 
 \- Jai
 
