@@ -5,6 +5,55 @@ This page is a work in progress - I hope to spin this into a working website sho
 
 ***
 
+### Blog Entry #7:
+_08/06/2019_
+
+***
+
+### Blog Entry #6: Creative Research - Questions
+_08/05/2019_
+
+Group activity with Shawn, Franzi, Zhuyuan & Tiffany.
+
+We began with a brief introductions of our backgrounds, our domains of interest, and how we hope to pursue our career goals through the DT program. It was truly exciting to see common themes emerge from our interests, despite having a diverse set of interests.
+
+After looking through a research project that inspired me (Blog #5), I imagined that the researchers at XEROX PARC initiated their project with the following research questions:
+-  How can Human-Computer Interaction evolve such that the focus is more on "human" than "computer"?
+- How can Personal Computing be designed such that it can avail widespread access to information [technology] (besides engineers and scientists)
+
+After discussing and refining the domain some more with the group, and getting some additional feedback and viewpoints, I was most excited about delving deeper into the following research questions
+
+Resulting research questions:
+- In the 28 years since, how has HCI evolved & how did it diverge from the vision of ubiquitous computing as proposed by the Researchers at XEROX PARC?
+- Since the beginning of the personal computer, how has Information/Technology been accessible to individuals with disabilities (as well as other socio-economic groups/communities)?
+- In the next 10-30 years, how will HCI design evolve to better serve people from different socio-economic groups, and differently-abled communities, so that everyone may enjoy the same level of benefit afforded by computers?
+
+\-Jai
+
+***
+
+### Blog Entry #5: My inspirational project - The Computer for the 21st Century
+_08/02/2019_
+
+For my design inspiration, I chose the foundational work of the Computer Scientists & Researchers at XEROX PARC (Palo Alto Research Center), which guided personal computing to where it is today. Their key work ranged from the mid-1970s into the late 90s.
+
+For the sake of this article, I would like to share the article written by Mark Weiser for the Scientific American in 1991, titled '[The Computer for the 21st Century](https://www.lri.fr/~mbl/Stanford/CS477/papers/Weiser-SciAm.pdf)'. While this does not cover the entirety of their work, it was meant as a proposal for a new vision for the future of personal computing i.e. Ubiquitous Computing. The article summarizes some of their key work that conceptualized technologies that are now commonplace in 2019 (think any common Graphic User Interfaces - windows, icons, menus); as well as smartphones, tablets, laptop computers, large interactive tabletops and whiteboards, that can be used interchangeably between individuals, and could fluidly link with, and work as extensions to other computing devices.
+
+To give this article some context - while still in the nascent years, the sale and use of personal computers was on the rise. Mark Weiser, who was the head of the Computer Science Lab at PARC, recognized early that there were still some barriers to making information [technology] accessible to all, including those that came from non-engineering and scientific backgrounds. Of course, as a Computer Scientist and Researcher, they were speculating on the technological aspects of the future of computing. Nonetheless, they did consider some of the behavioral and user interface aspects of the system as a whole.
+
+Below is an excerpt from the article that stood out to me:
+
+_"The arcane aura that surrounds personal computers is not just a user interface problem... the idea of a 'personal' computer itself is misplaced .. and that the vision of [desktops/laptops] is only a transitional step towards achieving the real potential of Information Technology.
+We are trying to conceive a new way of thinking about computers, one that takes into account the human world and allows the computers themselves to vanish into the background. Such a disappearance is a fundamental consequence not of technology, but of human psychology. Whenever people learn something sufficiently well, they cease to be aware of it."_
+
+As for the process of devising this project, I believe it must have kickstarted as a result of researching and observing the sale and use of personal computers around the world, in various different industries. In the late 80s and early 90s, there was a rapid development in engineering capability and manufacturing techniques for making smaller transistors and thinner silicon, all used for building computers.
+
+From their vantage point, they Weiser and could have observed being on the foothills of the upward exponential curve, known as Moore's Law. As a thought experiment, they must have foreseen the new capabilities of using smaller components in computers, thereby affording building smaller, more compact devices, while evaluating the forthcoming technical challenges; hardware, network communication protocols, user interface mechanisms and varying interaction concepts between device types.
+
+\- Jai
+
+***
+
 ### Blog Entry #4: The process of formulating a question (or many)
 _08/01/2019_
 
