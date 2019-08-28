@@ -9,9 +9,7 @@ This page is a work in progress - I hope to spin this into a working website sho
 
 [MFA DT Bootcamp-design blog](http://dhananjaih.github.io/site/pages/bootcamp-design/)
 
-MFA DT Bootcamp-web blog
-
-MFA DT Major Studio 1 blog
+[MFA DT Major Studio 1 blog](http://dhananjaih.github.io/site/pages/ms1/)
 
 ***
 
