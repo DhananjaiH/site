@@ -7,7 +7,7 @@ This page is a work in progress - I hope to spin this into a working website sho
 
 ##### Sitemap
 
-[MFA DT Bootcamp-design blog](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/pages/bootcamp-design.md)
+[MFA DT Bootcamp-design blog](http://dhananjaih.github.io/site/pages/bootcamp-design/)
 
 MFA DT Bootcamp-web blog
 
