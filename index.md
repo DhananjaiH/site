@@ -5,8 +5,95 @@ This page is a work in progress - I hope to spin this into a working website sho
 
 ***
 
-### Blog Entry #7:
+##### Sitemap
+
+[MFA DT Bootcamp-design blog](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/pages/bootcamp-design.md)
+
+MFA DT Bootcamp-web blog
+
+MFA DT Major Studio 1 blog
+
+***
+
+- are we really designing for innovation / human betterment, or are we designing for profit / commerce / designing solely to sell products / services?
+
+***
+
+### Blog Entry #9: Creative Research Process - From Research to Concept to Form
+_08/08/2019_
+
+***
+
+### Blog Entry #8: Rapid Prototyping activity - Designing a solution for a world under a zombie apocalypse!
+_08/07/2019_
+
+###### Process
+Working with Jiangnan, we tried to envision this scenario, and what particular problem would we try to address in this activity.
+
+As research questions, they boiled down to:
+- How would people survive in this world?
+- How would they go about fighting zombies?
+- How would they find and set up shelters while avoiding the threat of being accosted by the horde?
+- How would they acquire / stockpile food and water and other resources?
+
+###### Underlying assumptions of the zombie universe
+For this activity, we decided on some underlying assumptions of this universe, taken from popular fictional worlds;
+ - The Zs only have very basic motor capabilities allowing them to crawl, walk or run; as well as minimal cognitive abilities allowing them to distinguish between the living and the dead.
+  * (There aren't many science fiction works that explain this behavior; perhaps these infected humans lose their individuality when infected, and become assimilated into a single hive-minded species that work towards some higher purpose. But this track of thought is too deep for this activity..)
+
+- The Zs have basic senses of sight, smell & sound.
+- Zombies require sustenance (living humans), without which they would eventually die out as well?
+
+###### Brainstorming solutions
+We took some time apart to try and brainstorm on some ideas for solutions that could potentially address the above-listed questions.
+- Living on Ferris Wheels?
+- using trenches to trap an oncoming zombie horde, and subsequently fill it with quick-dry cement. Eventually this could become a protective wall around a settlement, something that is too dense to wade through.
+- building a maze parks (filled with traps) around settlements. Only a small number of paths would lead to the inner ring, which could also be gated.
+
+###### Solution / Prototype
+
+
+writing about the survival society after a zombie apocalypse
+thoughts on the fictional universe, and under what scenario would this implementation be a practical solution?
+
+- there are the larger questions on society, heirarchy, democracy, rights and rules that would need to be followed in order for this to be practical.
+
+###### documenting my process for making a low-fidelity prototype addressing my research question
+
+***
+
+### Blog Entry #7: Giving form / narrative to the creative research question
 _08/06/2019_
+
+##### Review of the refined research Questions
+[A] In the 28 years since, how has HCI evolved? How did it diverge from the vision of ubiquitous computing as envisioned by the researchers at XEROX PARC?
+[B] Since the beginning of the personal computer, how has Information/Technology been accessible to individuals with disabilities (as well as other socio-economic groups/communities)?
+[C] In the next 10-30 years, how will HCI design evolve to better serve people from different socio-economic groups, and differently-abled communities, so that everyone may enjoy the same level of benefit afforded by computers?
+
+##### ACTIVITY: possible forms / artifacts addressing/illustrating the work derived from the research questions
+
+- an animation representing the variations in screen sizes and resolutions over time.
+- growth of internet connected devices (physical / animation of an increasingly dense network of interconnected strings)
+- variations of form & tactility of computer input devices (keyboards, mouse, braille keypads)
+- language support in I.T.
+- visual display of quantitative information - variation in cost over time
+- A manga / comic depicting advanced future accessible technology, and how they are similar / different from that available now ( Speculative design / fiction)
+- A satirical film / sketch / short (like Futurama) that portrays all the benefits of modern science & tech, but not to much effect, since human beings (& human problems) are never addressed at the core.
+
+##### ACTIVITY: possible forms/artifacts addressing the same questions as above, but using ideas from random cue cards
+
+- Film
+- Stand up comedy show
+- Architecture
+- Blog
+- Tattoos
+- Interactive Illustration
+- <blank>
+- floor-ceiling installation or painting (perhaps a piece on tech today vs tomorrow)
+
+After going through this ideation process, I can see some interesting prospects for giving form to some of my research questions, and how they might work at addressing them.
+
+\-Jai
 
 ***
 
@@ -21,9 +108,8 @@ After looking through a research project that inspired me (Blog #5), I imagined 
 -  How can Human-Computer Interaction evolve such that the focus is more on "human" than "computer"?
 - How can Personal Computing be designed such that it can avail widespread access to information [technology] (besides engineers and scientists)
 
-After discussing and refining the domain some more with the group, and getting some additional feedback and viewpoints, I was most excited about delving deeper into the following research questions
+After discussing and refining the domain some more with the group, and getting some additional feedback and viewpoints, I was most excited about delving deeper into the following research questions:
 
-Resulting research questions:
 - In the 28 years since, how has HCI evolved & how did it diverge from the vision of ubiquitous computing as proposed by the Researchers at XEROX PARC?
 - Since the beginning of the personal computer, how has Information/Technology been accessible to individuals with disabilities (as well as other socio-economic groups/communities)?
 - In the next 10-30 years, how will HCI design evolve to better serve people from different socio-economic groups, and differently-abled communities, so that everyone may enjoy the same level of benefit afforded by computers?
