@@ -8,6 +8,7 @@ While these virtual spiders seem omnipresent, they are still a nascent technolog
 The term 'bias' is interesting in this case, since it is quite unintentional. Nora Khan's article puts this across well - this 'AI' doesn't hope to befriend us and aid us, nor does it act to intentionally harm us. As a virtual being, it has no real conscious, and is thus indifferent to humans, with a singular focus on performing its function and achieving its goal. Through this article, and by extension, writer Nick Bostrom suggest that ASI is a sort of force of nature whose magnitude and form are truly far beyond human cognitive abilities, including those that conceived it in the first place. Which in turn makes Ayanna Howard's study of human trust in robots and AIs seem a little contrarian - if this ASI (in its mature state) has nothing of the sort of human characteristics as we come to expect, then trust as an anthropomorphic characteristic would never be achievable. Unless - this Trust was a function that it is required to perform, in order to achieve its goals. Highlighting some of Dr. Howards research findings, this 'trust' may end up being a double-edged sword. When coupled with a multitude of business objectives, this Trust could be used in malignant ways, much like it is being used right now, with the added portent of gaining an intimate level of trust.
 
 \-Jai
+
 [Back to Design For This Century Home Page](http://dhananjaih.github.io/site/pages/d4tc/)
 
 ##### References:
