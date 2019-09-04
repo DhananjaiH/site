@@ -11,4 +11,6 @@ This page is a work in progress - I hope to spin this into a working website sho
 
 [MFA DT Major Studio 1 blog](http://dhananjaih.github.io/site/pages/ms1/)
 
+[MFA DT Creativity & Computation blog](http://dhananjaih.github.io/site/pages/cclec/)
+
 [MFA DT Design For This Century blog](http://dhananjaih.github.io/site/pages/d4tc/)
