@@ -1,4 +1,4 @@
-### Welcome to Jai's blog for Creativity & Computation
+# Welcome to Jai's blog for Creativity & Computation
 _Made with GitHub Pages_
 
 This page will be a home ground for notes, documentation, and essays on my work during the course of Creativity & Computation Lecture / Lab (Fall 2019).
@@ -7,7 +7,7 @@ This page will be a home ground for notes, documentation, and essays on my work 
 
 ***
 
-##### Journal Entry #1: Five Goals
+### Journal Entry #1: Five Goals
 _09/01/2019_
 
 I consider myself to be a generalist - with backgrounds in wearing multiple hats as a researcher / technologist / designer. Throughout my academic and professional career so far, I have been able to take projects from research to concept to prototype phases.
