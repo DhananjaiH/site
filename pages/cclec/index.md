@@ -7,6 +7,25 @@ This page will be a home ground for notes, documentation, and essays on my work 
 
 ***
 
+### Journal Entry #2: Five Questions
+_09/09/2019_
+
+What kind of collaborator should I aim to be?
+How will I know if I am developing good/bad qualities as a team member? How will I know whether my ability to present and critique is improving?
+Given that this is my second post-graduate degree, do I have any quantitative measures to track my progress, and focus on my motives for joining this program?
+Will I be patient with the process and continue with iterating and prototyping till I achieve a meaningful conclusion?
+How will I break out my own routine of picking projects that involve solutions that I have already previously attempted?
+Will I eventually overcome my inhibitions of thinking of myself as a designer, and build myself with a robust toolset of design processes?
+
+- To improve my collaborative abilities, I will need to seek working with diverse groups of people, from different backgrounds, cultures and goals.
+- Get into the habit of being able to quickly prepare a short pitch / presentation of my work and progress for each of my projects, overcome my natural instinct to wait until later to get feedback and critiques.
+- A consequence of the previous statement, identify themes from the feedback process and try to make quick revisions. Through readings and observations of others works, develop an understanding of what a 'wholesome' product or service is.
+- Not try to consider a complex system as a whole when designing a product, but instead start with considering the different levels of interaction between the product and the system, before looking toward secondary and tertiary consequences.
+
+\-Jai
+
+***
+
 ### Journal Entry #1: Five Goals
 _09/01/2019_
 
@@ -22,8 +41,8 @@ I do consider myself to have good taste in terms of design, but I don't know how
 #2 Improve in my process of iterating from conceptual prototypes to wholesome products/services/experiences
 I would like to achieve this at 2 levels: one is the conceptual level - refining the underlying design question(s) and its relevant solution(s). At the second level, I would like to significantly improve the physical/visual/experiential quality of the medium at the final output.
 
-#3 Practice in understanding and designing for larger, complex-systems. I understand the steps involve for this at a conceptual level, but I find myself unable to start, to break down a complex system to its fundamental roots, and then begin to focus at the foundational levels first before looking at the system as whole.
+#3 Practice in understanding and designing for larger, complex-systems. I understand the steps involved for this at a conceptual level, but I find myself unable to start, to break down a complex system to its fundamental roots, and then begin to focus at the foundational levels first before looking at the system as whole.
 
-#4 Expand my horizons - both within the technological landscape, as well as toward the larger picture of the human condition. I would like to study speculative science fiction and technology in the context of our current history in order to understand what the future of technology could look like - where are we going at the moment, and where should we aim to be in the near future?
+#4 Expand my horizons - both within the technological landscape, as well as trying new avenues of research , exploring new forms or types of projects that I would not normally have the opportunity to attempt. I would like to study speculative science fiction and technology in the context of our current history in order to understand what the future of technology could look like - where are we going at the moment, and where should we aim to be in the near future?
 
 \-Jai
