@@ -11,12 +11,18 @@ This page will be a home ground for notes, documentation, and essays on my work 
 _09/09/2019_
 
 What kind of collaborator should I aim to be?
+
 How will I know if I am developing good/bad qualities as a team member? How will I know whether my ability to present and critique is improving?
+
 Given that this is my second post-graduate degree, do I have any quantitative measures to track my progress, and focus on my motives for joining this program?
+
 Will I be patient with the process and continue with iterating and prototyping till I achieve a meaningful conclusion?
+
 How will I break out my own routine of picking projects that involve solutions that I have already previously attempted?
+
 Will I eventually overcome my inhibitions of thinking of myself as a designer, and build myself with a robust toolset of design processes?
 
+When the opportunity does arrive, I will probably want to consider these approaches (as a start, and evolve this approach over time)
 - To improve my collaborative abilities, I will need to seek working with diverse groups of people, from different backgrounds, cultures and goals.
 - Get into the habit of being able to quickly prepare a short pitch / presentation of my work and progress for each of my projects, overcome my natural instinct to wait until later to get feedback and critiques.
 - A consequence of the previous statement, identify themes from the feedback process and try to make quick revisions. Through readings and observations of others works, develop an understanding of what a 'wholesome' product or service is.
