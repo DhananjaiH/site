@@ -22,7 +22,7 @@ How will I break out my own routine of picking projects that involve solutions t
 
 Will I eventually overcome my inhibitions of thinking of myself as a designer, and build myself with a robust toolset of design processes?
 
-When the opportunity does arrive, I will probably want to consider these approaches (as a start, and evolve this approach over time)
+When the opportunity does arrive, I will probably want to consider these approaches (as a start, and evolve this approach over time):
 - To improve my collaborative abilities, I will need to seek working with diverse groups of people, from different backgrounds, cultures and goals.
 - Get into the habit of being able to quickly prepare a short pitch / presentation of my work and progress for each of my projects, overcome my natural instinct to wait until later to get feedback and critiques.
 - A consequence of the previous statement, identify themes from the feedback process and try to make quick revisions. Through readings and observations of others works, develop an understanding of what a 'wholesome' product or service is.
