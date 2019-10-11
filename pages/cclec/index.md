@@ -7,12 +7,49 @@ This page will be a home ground for notes, documentation, and essays on my work 
 
 ***
 
+### Journal Entry #6: Discover, Scale, Name, Narrate, Problematize
+_This week’s prompt is about finding ideas for a project emerging from your initial research, your creative intentions, and your overall goals for MFADT. Use the following prompts to seek out opportunities for project-based continuations of your research. Try to write against at least three of these.
+Discover: Look through different instruments or lenses at the PoV you’ve established around
+your topic.
+Scale: Amplify, Expand or Condense components/phenomena/actions already present. What happens if you scale your ideas up or down?
+Name: Determine an individual member of a specific public and work just for them.
+Narrate:  Determine actors and plot points and construct a story...and fill in the parts that are missing. Consider myth, drama, mystery, comedy—fiction can be as strong as fact.
+Problematize: Instead of solving a problem, make a problem/challenge visible and physical._
+
+***
+
+### Journal Entry #5: Question, Challenge, Define, State
+_This week’s prompt begins to make sense of last week’s research. Begin shaping information into understanding. Use the following techniques to do this.
+Define: Establish values driving opinion
+Connect: Make constellations of research findings
+Challenge: Assumptions, Black box thinking
+Question: Inquire about what isn’t understood, what seems unexpected
+State: Develop statement of opinion_
+
+***
+
 ### Journal Entry #4: Ask, Inventory, Observe
 _Building on the intentions from two weeks ago, and the questions from last week, this week’s writing prompt begins developing a foundation of knowledge on which you will develop your Major Studio 1 Final Project. While we may occasionally reference others’ qualitative and quantitative synthesized theories, knowledge processed into words, found in books or papers, will not be our primary source of investigation.
 Begin answering your questions using the basic creative research techniques below. Report back on two or three research techniques you used, and what you learned from them.
 Inventory: Collect, gather and list and what is already known about your topic (history, politics, culture, ecology)
 Observe: Witness this prior knowledge in action and describe, draw, photograph, map, diagram, model, storyboard
 Ask: Ask experiencers, experts, and those otherwise engaged with your topic anything and everything. How can their body of knowledge and experience become yours?_
+
+Starting by listing out keywords / domains of interest that form the core of my research question:
+Data visualization (or other mediums of presentation and communication), healthcare and diagnostics, decision-making, Machine Learning / Artificial Intelligence, Human-Computer Interaction, Bias, Speculative Design, Non-Dystopian Design.
+
+<TODO: include a domain map of domain of research>
+
+inventory:
+- The Semiology of Graphics - Jacques Bertin
+- The Visual Display of Quanititative Information - Edward Tufte
+- Visual Complexity - Manuel Lima
+- Works by Giorgia Lupi
+
+Comment: lack of body of work for representing physiological data`
+
+Ask: interviews and learning from medical practitioners.
+
 
 ***
 
@@ -27,11 +64,14 @@ Criticize: criticizing something about your topic?_
 
 My general goals as a creative / designer / technologist is to work & innovate at the intersection of science / technology / art & the humanities.
 
-I am in a state in my career where I am critical of the tech industry and critical of the numerous "inventions and innovations" being spun out of the assembly line, known as Silicon Valley. The innovations are being driven by venture capital and vague business models, rather for and towards humanity and society and more holistic goals. In the budding age of technology as we know it today, from the 60s to the 80s to early 90s, we had this grand vision for the future of technology ('to augment human intellect, they said') and the role it would play in human life and work, and what it could mean for society. While this vision did largely play out as intended, we are now running down the rabbit hole of building technology for the sake of adding technology, with each iteration being ever so more trivial than the last. I largely look up to the early research and works from XEROX PARC, which has been foundational to personal computing & the technological landscape of today.
+I am at a point in my career where I am critical of the tech industry and the numerous "inventions and innovations" being spun out of the assembly line known as Silicon Valley. This 'innovation' culture is being driven by venture capital and vague business models, rather for and towards people and society and more holistic goals. In the budding age of technology as we know it today, from the 60s to the 80s to early 90s, industry leaders had this grand vision for the future of technology ('to augment human intellect, they said') and the role it would play in human life and work, and what it could mean for society. While this vision did largely play out as intended, we are now running down the rabbit hole of building technology for the sake of adding technology, with each iteration being ever so more trivial than the last. I largely look up to the early research and works from XEROX PARC, which has been foundational to personal computing & the technological landscape of today.
 
-With that in mind, my intent is to create a body of work in the commercial + speculative future tech realm. At present as well as the forthcoming stages of my career, I would to work with tech and services that aim improve human life (either healthcare), or something that would help people get the most out of limited resources (such as in the plausible immediate future where resources might be scarce). The specific areas I would like to explore immediately would be:
+With that in mind, my intent is to create a body of work in the commercial + speculative future tech realm. At present as well as the forthcoming stages of my career, I would like to work with tech and services that aim to improve human life (either healthcare), or something that would help people get the most out of limited resources (such as in the plausible immediate future where resources might be scarce). The specific areas I would like to explore immediately would be:
 
 - How can the visualization of data be designed such that it can educate and help us make more informed & effective decisions?
+    - More specifically to my background in healthcare and medical technology, how can physiological information be represented in effective ways such that it empowers doctors and caregivers to make well-informed decisions?
+    - With the ever more presence of technology in the healthcare practice, how would interactivity play a role in data-driven diagnostics?
+    - With the advent of Machine Learning algorithms in healthcare, how will these systems "output" the derived information in meaningful ways such that it provides a comprehensive context of the information?
 - Designing products and services for equal access (with respective to abilities, social conditions etc.)
 - Designing for the aging population, without leaving them technologically behind.
 - Designing interfaces and interactions for the myriad of wearable and other ubiquitous technologies that may consume our surroundings.
