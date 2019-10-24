@@ -42,7 +42,7 @@ Data visualization (or other mediums of presentation and communication), healthc
 
 inventory:
 - The Semiology of Graphics - Jacques Bertin
-- The Visual Display of Quanititative Information - Edward Tufte
+- The Visual Display of Quantitative Information - Edward Tufte
 - Visual Complexity - Manuel Lima
 - Works by Giorgia Lupi
 
