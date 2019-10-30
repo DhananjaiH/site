@@ -106,20 +106,20 @@ narrative and process...
 #### Prototype #4: Twisting data dimensions? (working title)
 _October 28, 2019_
 
-![Waterfall of 5 beats w color ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/5 beats overlap 1.jpg)
+![Waterfall of 5 beats w color ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/5 beats overlap 1.png)
 
-![Waterfall of 15 beats w color ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/20 beats overlap 1.jpg)
+![Waterfall of 15 beats w color ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/20 beats overlap 1.png)
 
-![Waterfall of 50 beats w color ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/50 beats overlap 1.jpg)
+![Waterfall of 50 beats w color ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/50 beats overlap 1.png)
 
 Reference: Peter Saville's 1979 Album Cover Art for Joy Division's "Unknown Pleasures" ([Source](https://www.creativeboom.com/resources/jens-muellers-new-book-is-the-most-comprehensive-exploration-of-graphic-design-to-date/))
 
 ![“Unknown Pleasures”, Joy Division, promotional sticker, United Kingdom, 1979 Design: Peter Saville (United Kingdom)](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/peter-saville-2.jpg)
 
-![Topography of 15 beats ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/15 beats stack 1.jpg)
+![Topography of 15 beats ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/15 beats stack 1.png)
 
-![Topography of 50 beats ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/50 beats stack 1.jpg)
+![Topography of 50 beats ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/50 beats stack 1.png)
 
-![Topography of 100 beats ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/100 beats stack 3.jpg)
+![Topography of 100 beats ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/100 beats stack 3.png)
 
-![Topography of 200 beats ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/200 beats stack 2.jpg)
+![Topography of 200 beats ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/200 beats stack 2.png)
