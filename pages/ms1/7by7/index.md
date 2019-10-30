@@ -90,39 +90,73 @@ In the context of sleep and activity tracking, as marketed by consumer electroni
 #### Prototype #3: Visual aesthetics & medium? (working title)
 _October 27, 2019_
 
+In the spirit of trying something fun and unusual, I wanted to try a prototype that is a little more abstract from the theme. Looking at some of my prototypes as well as precedent work in the domain, I started to think more about the visual components of data being rigid, precise, defined shapes (think circle, square, dots, lines, stars etc). While it does seem natural to use precise, defined shapes to represent precise, quantitative information, there is definitely some imprecise, qualitative information in a dataset as it relates to a domain.
+
+There are 2 narratives shown in the prototypes here. The first one is the use of a natural, analog (and by nature, imprecise) medium to illustrate data, allowing the form to control the information. The second narrative is that this is an experimental approach to presenting the quantitative _**and**_ qualitative information in a single channel.
+
 ![Watercolor painting of a pocket calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blot-v1.png)
 
-narrative and process...
+Shown above is a watercolor illustration of a pocket calendar, with each blob of water+paint representing a specific aspect of a day. This could be a person's vitals (an extension of #P2), or mood / emotions for a day.
+
+Taking the example of prototype \#2, the "shape" of a person's daily body clock could be embodied in the central core of the chart, while the outer uncontrolled shape could be interpreted as a longer term subjective impact on the person's health. In the context of health and wellness, if a person does not get sufficient sleep on a single day, its effects on their mood and energy can tide over to the following days of the week. This phenomenon can be observed in some of the color blobs flowing into neighboring cores.
 
 ![Watercolor painting of a wall calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv2-1.jpg)
 
 ![Watercolor painting of a wall calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv2-final2.jpg)
 
+Above is another example of a wall calendar being used to map this data. If we are able to establish some experimental, quantitative way for correlating qualitative effects of health practices, this information can be translated to controlling a plotting tool which controls the amount of water and ink added to the paper, as well as other factors to control how the ink is introduced to the medium.
+
 **Reflection**
-----
+
+- Fun: Playing with water and graphite / ink was a relaxing experiment.
+- While a little abstract from industry applications of data viz, there is definitely some room to explore a controlled process for generating such visuals from real data.
 
 ***
 
 #### Prototype #4: Twisting data dimensions? (working title)
 _October 28, 2019_
 
+Today, I explore ways for visualizing and analyzing ECGs (Electrocardiograms: Electrical activity of the heart).
+
+Below: after gathering some signals, I attempted to layer consecutive beats over each other. In industry terms, this is known as a 'waterfall analysis'. It is often used by analysts and researchers to observe changes in beat morphology in various scenarios.
+
+
 ![Waterfall of 5 beats w color ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/5 beats overlap 1.png)
+_5 overlapping beats_
 
 ![Waterfall of 15 beats w color ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/20 beats overlap 1.png)
+_15 overlapping beats_
 
 ![Waterfall of 50 beats w color ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/50 beats overlap 1.png)
+_50 overlapping beats_
 
-Reference: Peter Saville's 1979 Album Cover Art for Joy Division's "Unknown Pleasures" ([Source](https://www.creativeboom.com/resources/jens-muellers-new-book-is-the-most-comprehensive-exploration-of-graphic-design-to-date/))
+After a while, the shapes of the individual waves gets lost and begins to coalesce into one aggregate shape, with some deviance. From an analysis point of view, it becomes hard to analze more than 5-10 beats at a time.
+
+While browsing the internet for some references on a project, I came across Peter Saville's album cover art for the band Joy Division.
 
 ![“Unknown Pleasures”, Joy Division, promotional sticker, United Kingdom, 1979 Design: Peter Saville (United Kingdom)](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/peter-saville-2.jpg)
 
+_Reference: Peter Saville's 1979 Album Cover Art for Joy Division's "Unknown Pleasures" ([Source](https://www.creativeboom.com/resources/jens-muellers-new-book-is-the-most-comprehensive-exploration-of-graphic-design-to-date/))_
+
+Taking the similar concept of a topographical chart, I tried to stack the waves...
+
 ![Topography of 15 beats ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/15 beats stack 1.png)
+_topography of 15 beats_
 
 ![Topography of 50 beats ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/50 beats stack 1.png)
+_topography of 50 beats_
 
 ![Topography of 100 beats ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/100 beats stack 3.png)
+_topography of 100 beats_
 
 ![Topography of 200 beats ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/200 beats stack 2.png)
+_topography of 200 beats_
+
+Going through this series, to me feels as if I am "zooming out" and observe the landscape created by the chunks of signals. From this bird's eye view, it becomes easier to observe patterns as well as deviations more easily.
+
+My interpretation of this observation is that some of Gestalt's principles of proximity and texture come into play.
+
+Prototype \#2 talks about illustrating 'circadian' rhythms (24hr cycles) of the body. The approach here may be useful for looking at 'ultradian' rhythms (>24hr cycles e.g. 1 week, month, year) of an individual and yield interesting observations.
 
 #### Prototype #5: Data viz in guided feedback (working title)
 _October 29, 2019_
