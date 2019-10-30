@@ -90,18 +90,10 @@ In the context of sleep and activity tracking, as marketed by consumer electroni
 #### Prototype #3: Visual aesthetics & medium? (working title)
 _October 27, 2019_
 
-![Watercolor painting of a pocket calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv1-1.jpg)
-
-![Watercolor painting of a pocket calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv1-4.jpg)
-
-![Watercolor painting of a pocket calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv1-final2.jpg)
+![Watercolor painting of a pocket calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blot-v1.png)
 
 adsakdjasd
 
 ![Watercolor painting of a wall calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv2-1.jpg)
-
-![Watercolor painting of a wall calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv2-2.jpg)
-
-![Watercolor painting of a wall calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv2-3.jpg)
 
 ![Watercolor painting of a wall calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv2-final2.jpg)
