@@ -1,27 +1,26 @@
-### Mid-term mapping assignment - Final Draft:
+### Mid-term mapping assignment - Final: Data Truth & Lies?
 _10/23/2019_
 
-![Initial draft map - Visualizing the impact of use of e-cigarette in the US ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/the map@2x.png)
+![Map of average annual e-cigarette products sold in the US (numbers as of 2016) ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/map#1@4x.png)
 
-My mapping experiment is based on the theme of Data Truth vs Lies, and how it is represented through visuals and statistics. For this particular case study, I tried to approach visualizing and highlighting the impact of e-cigarette use in the US, in the form of reported case of lung damage and deaths. More specifically, my aim was to emphasize that the severity of the data being presented (quality) outweighs the statistical significance (quantity), and thereby hopefully drive positive corrective action.
+![Map of number of e-cigarette related Lung Injury Cases reported to the CDC (10/15/2019) ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/map#2@4x.png)
 
-In this case study, the e-cigarette has been growing in a somewhat unregulated market of alternative flavored cigarettes [1,2]. While marketed as relatively harmless compared to regular smoking products, there are still quite severe and long-lasting conditions caused from using these products. Additionally, it was discovered that these products were also being marketed and sold to underage minors [3,4], despite containing toxic/addictive substances. However, the manufacturers and distributers have denied these facts in relation to their products, and even if they were so, are rare cases. This rhetoric is similar to the cases of mass Lead Poisoning from the 40s to the 80s when Big Oil companies commercialized the use of leaded-fuel in automobiles, and how the industry fought with misinformation and statistics to hide the collateral [5].
+![Map of Lung Injury cases in the context of e-cigarette products sold ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/map#3@4x.png)
 
-Most of my initial research began with news articles over the past year. Data visualization has also been an area of interest for me, especially the aspects that make the visuals communicate a complete narrative around the data. One of the resources that I used to guide me in this process was the Visual Display of Quantitative Information by Edward Tufte [6]. Tufte through his academic illustrates data story-telling and strategies for trying to do so, as well as patterns that are often employed to under-emphasize or over-emphasize components of data. Combining the two described themes, I am attempting to collect available reported data on the topic, as well as attempt to piece together a cohesive visual narrative.
+![Map of e-cigarette related Lung Injury cases & Deaths reported to the CDC (10/15/2019) ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/map#4@4x.png)
 
-For this draft, I started with collecting data on vape and e-cigarette unit sales (approx.), reported cases of lung damage and other diseases, as well as death. The CDC provided some recent statistics on reported lung injury cases and fatalities attributed to e-cigarette use [7] (Updated Oct 8, 2019). For data on product sales, I referred to [8] for a survey on approximate number of units sold per month during the period from 2012 - 2016. The statistics presented in the paper were strongly indicative of steep growth in sales of e-cigarette and related products during the surveyed time frame.
-
-Taking the three collected datasets, I attempted to visualize the data onto a map of the US. Each of the states is represented in a shade of green depending on the approximate number of e-cigarette products sold in 2016. This quantity was extrapolated from the average monthly sales units. For each of the states, I then overlayed the reported lung injury cases relative to its size. And then finally, I attempted to display the reported fatalities.
-
-This was a challenging data visualization project - it is still a work in progress. If I had attempted to visualize the injuries related to the sales units, then the orange and red marks would have been insignificant and mostly invisible, thereby staying true to the statistics. However, since I was hoping to draw attention to the significance of these cases, they were scaled to the size of the state rather than the sales. I don't think this is the right approach for this data, and would like to experiment with other modes of visualizing this information.
-
+The theme of this project is — Data Truth vs Lies, and the role of visualization tools to that effect. In this case study, I attempt to visualize and highlight the health impact of e-cigarette use in the US, with a view to guide regulatory frameworks in this industry. While manufacturers and distributors argue that the number of victims is significantly low, this project aims to emphasize that the severity of the data being presented (quality) outweighs the statistical significance (quantity).
+The above maps visualize:
+a. The approximate number of e-cigarette products sold in 2016.
+b. E-cigarette -related lung injuries reported to the CDC (as of 10/15/2019)
+c. Lung injuries in the context of approximate products sold
+d. A scaled view of lung injuries and deaths in the US due to the use of e-cigarette products.
 References:
 1. PublicHealth.org. "Health Guides - E-cigarettes".
-2. Javette Orgain, M.D., M.P.H., AAFP.org. "The Truth About E-Cigarettes: Unregulated, Unproven and Unhealthy" https://www.aafp.org/news/blogs/leadervoices/entry/the_truth_about_e_cigarettes.html (March, 2014 | Accessed 10/12/2019)
-3. By Stuart Elliott, The New York Times.
-. E-Cigarette Makers' Ads Echo Tobacco's Heyday. https://www.nytimes.com/2013/08/30/business/media/e-cigarette-makers-ads-echo-tobaccos-heyday.html (August 2013 | Accessed 10/12/2019)
-4. By Katie Thomas and Sheila Kaplan, The New York Times. E-Cigarettes Went Unchecked in 10 Years of Federal Inaction https://www.nytimes.com/2019/10/14/health/vaping-e-cigarettes-fda.html (October 2019 | Accessed 10/12/2019)
-5. Lucas Reilly, The Mental Floss. The Most Important Scientist You’ve Never Heard Of https://mentalfloss.com/article/94569/clair-patterson-scientist-who-determined-age-earth-and-then-saved-it (May 2017 | Accessed 10/12/2019)
-6. Edward R. Tufte. The Visual Display of Quantitative Information. Second Edition. 2001.
-7. Centers for Disease Control and Prevention. "Outbreak of Lung Injury Associated with E-Cigarette Use, or Vaping" (Updated October 8, 2019) https://www.cdc.gov/tobacco/basic_information/e-cigarettes/severe-lung-disease.html
-8. Teresa W. Wang, PhD, MS1; Ellen M. Coats, MS2; Doris G. Gammon, MS2; Brett R. Loomis, MS2; Nicole M. Kuiper, MPH1; Todd Rogers, PhD2; Brian A. King, PhD, MPH. National and State-Specific Unit Sales and Prices for Electronic Cigarettes, United States, 2012–2016. http://dx.doi.org/10.5888/pcd15.170555
+2. Javette Orgain, M.D., M.P.H., AAFP.org. "The Truth About E-Cigarettes: Unregulated, Unproven and Unhealthy”. https://www.aafp.org/news/blogs/leadervoices/entry/ the_truth_about_e_cigarettes.html (March, 2014 | Accessed 10/12/2019)
+3. Stuart Elliott, The New York Times. “E-Cigarette Makers' Ads Echo Tobacco's Heyday”. https://www.nytimes.com/2013/08/30/business/media/e-cigarette-makers-ads-echo- tobaccos-heyday.html (August 2013 | Accessed 10/12/2019)
+4. Katie Thomas and Sheila Kaplan, The New York Times. “E-Cigarettes Went Unchecked in 10 Years of Federal Inaction”. https://www.nytimes.com/2019/10/14/health/vaping-e-cigarettes-fda.html (October 2019 | Accessed 10/12/2019)
+5. Lucas Reilly, The Mental Floss. “The Most Important Scientist You’ve Never Heard Of”. https://mentalfloss.com/article/94569/clair-patterson-scientist-who-determined-age-earth-and-then-saved-it (May 2017 | Accessed 10/12/2019)
+6. Edward R. Tufte. The Visual Display of Quantitative Information. Second Edition. 2001. 7. Jacques Bertin. The Semiology of Graphics. 1983.
+8. Centers for Disease Control and Prevention. "Outbreak of Lung Injury Associated with E- Cigarette Use, or Vaping" https://www.cdc.gov/tobacco/basic_information/e-cigarettes/severe-lung-disease.html (Updated October 8, 2019)
+9. Teresa W. Wang, PhD, MS1; Ellen M. Coats, MS2; Doris G. Gammon, MS2; Brett R. Loomis, MS2; Nicole M. Kuiper, MPH1; Todd Rogers, PhD2; Brian A. King, PhD, MPH. National and State-Specific Unit Sales and Prices for Electronic Cigarettes, United States, 2012–2016. http://dx.doi.org/10.5888/pcd15.170555
