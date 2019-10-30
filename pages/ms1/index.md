@@ -7,7 +7,7 @@ This page will be a home ground for notes, documentation, and essays on my work 
 
 ***
 
-### [7 x 7](http:dhananjaih.github.io/site/pages/ms1/7by7)
+### [7 x 7](/7by7)
 
 thumbnail images to be added here...
 

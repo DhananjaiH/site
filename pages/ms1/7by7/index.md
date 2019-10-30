@@ -79,8 +79,29 @@ Here, the same clock has the general day / night hours overlayed on the display,
 
 In the context of sleep and activity tracking, as marketed by consumer electronic device manufacturers, having this context provides an easier interpretation. This also provides the affordance to provide some interactive tools to analyze and suggest better sleep habits for a healthier living.
 
-###### Reflections
+**Reflections**
 
 - This mockup aimed at trying out a particular relevant metaphor for presenting information.
 - Doing this in an analog medium (pencil, pens, paper) was a lot more relaxing and allowed me to focus more on the artifact rather than the tool. As I was laying down each visual component by hand, it did force me to think about its necessity and to keep it simple so as to maximize the visual resolution and cleanliness.
 - I would like to continue making additional such experimental clock faces with different combinations of data (targeted at different applications). As well as start putting together such plots with software using real datasets. I imagine viewing the shapes drawn by a person's vitals over consecutive days can yield some interesting shapes and narratives.
+
+***
+
+#### Prototype #3: Visual aesthetics & medium? (working title)
+_October 27, 2019_
+
+![Watercolor painting of a pocket calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv1-1.jpg)
+
+![Watercolor painting of a pocket calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv1-4.jpg)
+
+![Watercolor painting of a pocket calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv1-final2.jpg)
+
+adsakdjasd
+
+![Watercolor painting of a wall calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv2-1.jpg)
+
+![Watercolor painting of a wall calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv2-2.jpg)
+
+![Watercolor painting of a wall calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv2-3.jpg)
+
+![Watercolor painting of a wall calendar ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/ink-blotv2-final2.jpg)
