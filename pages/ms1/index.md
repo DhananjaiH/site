@@ -7,7 +7,13 @@ This page will be a home ground for notes, documentation, and essays on my work 
 
 ***
 
-### Main project
+### [7 x 7](http:dhananjaih.github.io/site/pages/ms1/7by7/)
+
+images to be added here...
+
+***
+
+### Main/Final project Notes & such
 
 initial notes:
 - presenting information to guide medical decision making?

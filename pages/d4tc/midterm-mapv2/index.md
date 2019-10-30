@@ -1,13 +1,13 @@
 ### Mid-term mapping assignment - Final: Data Truth & Lies?
 _10/23/2019_
 
-![Map of average annual e-cigarette products sold in the US (numbers as of 2016) ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/map#1@4x.png)
+![Map of average annual e-cigarette products sold in the US (numbers as of 2016) ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/map1@4x.png)
 
-![Map of number of e-cigarette related Lung Injury Cases reported to the CDC (10/15/2019) ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/map#2@4x.png)
+![Map of number of e-cigarette related Lung Injury Cases reported to the CDC (10/15/2019) ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/map2@4x.png)
 
-![Map of Lung Injury cases in the context of e-cigarette products sold ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/map#3@4x.png)
+![Map of Lung Injury cases in the context of e-cigarette products sold ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/map3@4x.png)
 
-![Map of e-cigarette related Lung Injury cases & Deaths reported to the CDC (10/15/2019) ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/map#4@4x.png)
+![Map of e-cigarette related Lung Injury cases & Deaths reported to the CDC (10/15/2019) ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/map4@4x.png)
 
 The theme of this project is — Data Truth vs Lies, and the role of visualization tools to that effect. In this case study, I attempt to visualize and highlight the health impact of e-cigarette use in the US, with a view to guide regulatory frameworks in this industry. While manufacturers and distributors argue that the number of victims is significantly low, this project aims to emphasize that the severity of the data being presented (quality) outweighs the statistical significance (quantity).
 The above maps visualize:
