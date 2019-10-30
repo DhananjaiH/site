@@ -47,5 +47,40 @@ Visualizing tabular information as a map proved to be a challenging process. The
 
 ***
 
-#### Prototype #2: Visualizing physiologic / fitness data with context to provide insight
+#### Prototype #2: Visualizing physiologic / fitness data with context to provide insight (working title)
 _October 26, 2019_
+
+In recent years, wearable fitness devices are quite widespread, and have collected vast amounts of physiological and behavioral data. Yet this data & how it is represented is not being utilized to its potential (at least not for the consumers of these technologies).
+
+![Sketch of Fitbit dashboard ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/fitbit-dash.jpg)
+_(not real data)_
+
+Above is a rough sketch of standard line chart generated from data off devices such as Fitbit, showing Heart Rate information recorded from a person over a 24hr period. While simple to read and observe, line charts are quite standard for displaying single channel quantitative information. However, it leaves the information to be open for interpretation, and requires closer inspection for an average consumer to gain qualitative information from this.
+
+![Sketch of Apple Watch face ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/apple-watch-face.jpg)
+_(not real data)_
+
+Similarly, an alternate form of presenting information to its customers is illustrated in the above sketches of some Apple Watch faces. These watch faces provide slightly more qualitative information, which in certain contexts, can help one to gain a certain awareness of their activities (or lack thereof).
+
+![Sketch of data in context of a body clock ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/clock-plot-1.jpg)
+_(not real data; an approximation of heart beat information over a day with some assumed activities)_
+
+In the sketch above, I explore similar data as the Fitbit / Apple Watch in a more relatable context of a 24-hour body clock. In my perspective, this information is better interpreted in the context of time of day, & how this may relate to the human body clock (a.k.a. circadian rhythms). The illustration shows heart rate info over a day, highlighting the average heart rate as well as the overall variation at each time stamp.
+
+For example, the chart above shows high heart rate and variability around the 6:30 - 7am window, indicating that perhaps the individual was exercising.
+
+Similarly, around 5 / 5:30am, the persons' heart rate dropped extremely low, indicating that perhaps the person has some sleep or heart disorder.
+
+The clock face also provides opportunity to add additional layers of information for context.
+
+![Sketch of data in context of a body clock 2 ](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/clock-plot-daynight@2x.png)
+
+Here, the same clock has the general day / night hours overlayed on the display, providing some additional context around the information. Other sources of data, such as activity level and temperature could also be overlayed.
+
+In the context of sleep and activity tracking, as marketed by consumer electronic device manufacturers, having this context provides an easier interpretation. This also provides the affordance to provide some interactive tools to analyze and suggest better sleep habits for a healthier living.
+
+###### Reflections
+
+- This mockup aimed at trying out a particular relevant metaphor for presenting information.
+- Doing this in an analog medium (pencil, pens, paper) was a lot more relaxing and allowed me to focus more on the artifact rather than the tool. As I was laying down each visual component by hand, it did force me to think about its necessity and to keep it simple so as to maximize the visual resolution and cleanliness.
+- I would like to continue making additional such experimental clock faces with different combinations of data (targeted at different applications). As well as start putting together such plots with software using real datasets. I imagine viewing the shapes drawn by a person's vitals over consecutive days can yield some interesting shapes and narratives.
