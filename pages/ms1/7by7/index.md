@@ -158,7 +158,16 @@ My interpretation of this observation is that some of Gestalt's principles of pr
 
 Prototype \#2 talks about illustrating 'circadian' rhythms (24hr cycles) of the body. The approach here may be useful for looking at 'ultradian' rhythms (>24hr cycles e.g. 1 week, month, year) of an individual and yield interesting observations.
 
+***
+
 #### Prototype #5: Data viz in guided feedback (working title)
 _October 29, 2019_
 
 ![data guided meditation](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Relaxation animation_0-134.gif)
+
+***
+
+### Prototype #6: Digital vs Analog medium, & how they can be used for conveying visual metaphors (working title)
+_October 30, 2019_
+
+![Poster of data visualized with the metaphor of an eye](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Osmosis-poster.jpg)
