@@ -163,11 +163,28 @@ Prototype \#2 talks about illustrating 'circadian' rhythms (24hr cycles) of the 
 #### Prototype #5: Data viz in guided feedback (working title)
 _October 29, 2019_
 
+The theme for today's experiment was to look at how quantitative data can be taken to provide qualitative feedback and guidance.
+
+As a trial, I looked at wellness applications such as guided meditation. The basic physiologic goal of meditation is to slow down heart rate and respiration rate, and encourage better breathing practice.
+
 ![data guided meditation](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Relaxation animation_0-134.gif)
+
+The above is a simple animation of visualizing what such a feedback system would look like, if it were trying to guide a person to a certain target 'zone'. Assuming that such a system has access to an individual's heart and respiratory functions, it could use such a display with pulsing lights; the blue pulsing lights highlight the target rhythm, while the yellow lights shows the individual's current state.
+
+** Reflection **
+- This idea is definitely interesting to me, but perhaps does not match the scenario presented here. Usually meditation also requires some amount of concentration - looking at a computer display would perhaps have the opposite effect on the person.
+- I'm starting to see a pattern of finding interesting visualizations using circles/ spheres.
 
 ***
 
 ### Prototype #6: Digital vs Analog medium, & how they can be used for conveying visual metaphors (working title)
 _October 30, 2019_
 
+Created as a poster for an elective course, I was attempting to put together some unique visual styles by taking inspiration from existing artist's and combining it with my own narrative.
+
 ![Poster of data visualized with the metaphor of an eye](https://raw.githubusercontent.com/DhananjaiH/site/gh-pages/images/Osmosis-poster.jpg)
+
+Continuing in my exploration of using circles for visualizing information, some of sketches seemed to look like a human eye from distance. So the narrative here is about taking an analog concept - the human eye (painted using water and graphite), to present it in a digital form - drawn on paper with some sample data.
+
+**Reflections**
+- For this series of experiments, I have been attempting to mostly work in analog mediums to get away from sitting at the computer with software. As I explore more visual metaphors and forms, I would like to transition towards more digital / generative mediums, and explore how I may use those to work with more natural and appealing forms.
