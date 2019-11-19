@@ -1,14 +1,10 @@
-### Week 7: Infrastructure stories? - maps, manifestos, infrastructural stories
+### Week 7: Maps, manifestos, & infrastructural stories
 _10/10/2019_
 
-What does Parks mean by “materialization”? What does this kind of inquiry involve and what does it reveal?
+This week's articles are thematic of how 21st century infrastructure has some level of inequality and discrimination built into it. The examples here cover the resource of 'internet' and internet access, how the internet resides in a material physical form, the process of setting up connections and networks, as well as some of the agenda for making (or not providing) these connections. The references here bring to light interesting findings on how intercontinental information networks are created through large scale projects of under-sea cables, as well as how they are propagated to the city and local level communities. Some references here also highlight how and when such communities can be underserved by the available infrastructure by organizations that fail to provide this access for monetary reasons.
 
-What is “load shedding”? Whom does it impact and why?
+The past few years have also seen similar stories of internet access inequality through the Net Neutrality campaign. This phenomenon came about through the observation that not all servers and websites were allocated the same amount of network resources to websites and 'online' organizations, thus requiring companies to pay Internet Service Providers extra in order to facilitate easy and quick access from users. Similarly, users of the internet may or may not enjoy the same speeds and experience while traversing different websites, depending on the Service Provider and their list of 'preferred websites'. There is a technical, engineering rationale for this phenomenon, similar to load shedding for electrical infrastructure. Internet Service Providers support their own servers that facilitate data transfer between end users and websites. By 'caching', or pre-storing links to websites that are expected to have high volume of traffic, the Service Providers are able to maintain an optimal load on their systems while providing reliable and fast traffic for a majority of their users.
 
-How does load shedding expose inequalities inherent in global signal traffic’s material infrastructure?
+My point through this essay was to illustrate that most organizations do not build infrastructure with the aim to marginalize communities; although in the case with the Detroit communities, organizations should have frameworks to leverage the opportunity to work with the community to build an infrastructure model that is beneficial to both parties. In the examples provided, they were consequences of optimizing infrastructural performance to be able to support a certain amount of load, perhaps not entirely focusing on maximizing the geographical support and range. These are hard challenges that require framing new Design+Engineering questions to build them into existing and forthcoming infrastructure.
 
-Parks describes the interdependency between energy sources and internet connectivity. Can you elaborate?
-
-Can you reflect upon the interdependency of internet access and energy systems within your own life (this may require researching the primary energy sources that your city, state, or home country relies upon).
-
-According to Parks, what are the necessary preconditions to ensure that Machans have equitable accessible to the Internet and a useable infrastructure?
+\-Jai

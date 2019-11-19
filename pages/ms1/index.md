@@ -7,6 +7,34 @@ This page will be a home ground for notes, documentation, and essays on my work 
 
 ***
 
+### Final Paper - Outline
+
+outline with calendar / timeline
+
+- Abstract / Introduction
+  - introduction to research question
+  - statement on need for better data viz tools in healthcare / wellness
+  - summary of solution(s) & conclusions
+- Problem background / research
+  - existing tools in healthcare, fitness, wellness
+  - positives on existing tools
+  - negatives on existing tools
+  - user stories and scenarios - roots for R.Q.
+  - relevant precedents / inspirations
+  - deeper illustration of project goals and intents
+- Solution methods / work
+  - project plan / timeline / prototyping
+  - Aesthetics & Metaphors for data storytelling (Nov 3-9)
+  - Interaction with data (Nov 10 - 16)
+  - Data-guided feedback and communication (Nov 17 - 23)
+  - an integrated solution - putting together successful components from prototypes (Nov 24 - 30)
+  - A sample scenario to present the narrative (Dec 1- 7)
+- Discussion / Conclusion
+  - reflections and self-rating of work
+  - (maybe) some user feedback on iterations
+
+***
+
 ### [7 x 7](/site/pages/ms1/7by7)
 
 thumbnail images to be added here...
