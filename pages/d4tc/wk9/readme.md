@@ -1,20 +1,10 @@
 ### Week 9: Transmedia Storytelling
 _10/23/2019_
 
-Lance weiler - storyteller
-Transmedia storytelling is also known as “multiplatform storytelling.”  In short, transmedia storytelling is the creation of the same story in different forms (e.g., a film that also has a video game counterpart).
+Lance Weiler has made some recent breakthroughs in storytelling, stitching together unique combinations of different media forms to formulate a cohesive narrative. The articles by Lance illustrate a detailed account of his design and development process, more specifically, the moments of opportunities he picks to "open up and share" with an audience to test. The key aspect of the design process, and indeed of being a designer, is the choice of picking the right moments to test and get feedback, with just the 'right' level of fidelity in prototype or storyboard. If a prototype is too sketchy and low quality, it becomes unwieldy to test with a real audience, hard to convey the message, and even harder to get critical constructive feedback. On the other hand, as a designer, it is tough to gauge how much time should be spent on a version of a prototype so that it becomes 'good enough' to test and show.
 
-In his 2018 Medium article, Lance Weiler writes about the experience of “playtesting” and “prototyping” his immersive story Where There is Smoke:   “There’s never any way to know what will come out of prototyping before we actually do it, which is precisely what excites me the most about collaborating with a community.”
+Based on the description and videos of his work, I am reminded of a popular current form of 'experiential' theater performances such as 'Sleep No More' in NYC. Audiences to this show describe having to walk along 'in the shoes' of certain characters of the story, and observe unique perspectives and experiences of singular characters as the story unfolds. In recent years, the video game industry has also been trying radical new approaches to using games as form for providing a more in-depth interactive storytelling experience. Hideo Kojima's Death Stranding, Ninja Theory's Hellblade: Senua's Sacrifice, and Santa Monica Studio's God of War have each taken on unique facets of the characters, environments and mechanics to weave around the narrative in a way that captures the player's imagination.
 
-What are the possibilities of this unconventional process for creating a story? Why would it be valuable to “prototype” or “playtest” an immersive personal narrative? How can his experience with prototyping a story apply to your design prototyping?
-Are there some stories that are better suited for transmedia storytelling than others? Are some stories better told in a single genre?
-How might transmedia storytelling work toward increasing commercialization of narrative and entertainment?
-How might transmedia storytelling decrease or increase the power of conventional narratives?
-Literature has many purposes but is often viewed as a way to promote empathy, to enlighten and to help humans process their lived experience.  How can transmedia storytelling operate in similar ways?
-How might transmedia storytelling help or hurt underrepresented groups in traditional media? Would it offer the opportunity for underrepresented groups to have their work published more, or will it be harder given the investments needed to create multiple versions of the same work?
+This form of Transmedia Storytelling is definitely a breath of fresh air to the entertainment industry. Not all stories need to be conveyed in the same format, and not all of them can be. Thinking back to the talk and performances by Alice Sheppard, the way she uses her body as a medium for narrating the performance, despite her disability or even because of it, provides a resounding effect in its audience. Here, I feel there is a lot more potential for breaking new ground in story telling; not just in form, but also in content.
 
-Lance Weiler has made some recent breakthroughs in storytelling, with unique combinations of different media forms
-
-References:
-- https://www.indiewire.com/2019/05/where-theres-smoke-lance-weiler-immersive-storytelling-pioneer-1202131111/
-- https://medium.com/columbia-dsl/taking-the-leap-embracing-vulnerability-when-prototyping-immersive-stories-84776781d7a9
+/-Jai
