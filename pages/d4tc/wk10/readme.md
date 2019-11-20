@@ -1,0 +1,10 @@
+### Week 10: AR / VR Activism
+_10/30/2019_
+
+Glenn Cantave's work at the intersection of Education, Representation and Activism is well highlighted through his projects. His Columbus Circle activism brought to focus the white-washing of history and use symbols of oppression by using a form of modern-day guerilla activism that is purely brilliant! Through his articles and talks, he has shown an exemplary example of a manifesto, and how he acts to work towards it. It is very evident of his goal to increase the representation of women and people of color, while speaking to under-represented communities and proving a new medium of educational source.
+
+This week's theme highlights an erasure of the histories of african and other minorities in the united states. This seemingly non existent history makes these feel as if they have no real roots in society, thereby serving to make them feel more suppressed in the very communities that they live in. Despite the progress towards equal rights for people of all race, gender, and other association over several decades, the symbolism left in society is still very much set in stone (through statues for former oppressive leaders). This leaves previously minority communities feel under-represented by society, with a severe lack of acknowledgement of their place in history. Through some of his projects, Glenn has done brilliantly to find a way to use novel technology such as AR to stage a form of silent & invisible, yet omnipresent activist movement without overtly aggressive tactics of taking down existing infrastructure. While that may still be an eventual goal through his work, this has proven to be an effective way to create a context for social dialog, co-creation and reflection by actively soliciting participation from the community.
+
+It is amazing to see AR used in such a radical application outside of standard tropes of games and entertainment. As designers, it is important to be open to new avenues of making and prototyping, such that the form may not seem appropriate or make sense at first, but may eventually 'click' in a way that did not seem possible.
+
+-Jai
